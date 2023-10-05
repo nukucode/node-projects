@@ -1,8 +1,8 @@
 ![image](./assets/intro.png)
 
-# 🧑🏻‍💻 Node Projects
+# <center>🧑🏻‍💻 Node Projects</center>
 
-🚛 Beginner To Advanced Node.js Projects. Choose a project that aligns with your interests and skill level, and use it as an opportunity to learn and experiment with Node.js. 
+<center>🚛 Beginner To Advanced Node.js Projects. Choose a project that aligns with your interests and skill level, and use it as an opportunity to learn and experiment with Node.js. </center>
 
 ## 📋 Table of Contents
 
@@ -11,7 +11,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-##  About
+## About
 
 Node.js is an open-source, server-side JavaScript runtime that allows developers to build scalable, high-performance network applications. With its event-driven, non-blocking I/O model, Node.js is particularly well-suited for building real-time applications, APIs, and web servers.
 
