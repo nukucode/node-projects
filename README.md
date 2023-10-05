@@ -6,12 +6,12 @@
 
 ## 📋 Table of Contents
 
-- [About](#about)
-- [Projects](#projects)
-- [Contributing](#contributing)
-- [License](#license)
+- [About](#🤡-about)
+- [Projects](#💼-projects)
+- [Contributing](#👥-contributing)
+- [License](#🪪-license)
 
-## 🤡 About
+##  🤡 About
 
 Node.js is an open-source, server-side JavaScript runtime that allows developers to build scalable, high-performance network applications. With its event-driven, non-blocking I/O model, Node.js is particularly well-suited for building real-time applications, APIs, and web servers.
 
@@ -29,7 +29,7 @@ Contributions are very welcome and wanted.
 Make sure you have thoroughly read and understood the [CONTRIBUTING](CONTRIBUTING.md) guidelines.
 
 
-## 📃 License
+## 🪪 License
 
 Licensed under the ChatGPT. See the [LICENSE](MIT-LICENSE.txt) file for details.
 
