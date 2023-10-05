@@ -1,8 +1,8 @@
 ![image](./assets/intro.png)
 
-# <center>🧑🏻‍💻 Node Projects</center>
+# <p align="center">🧑🏻‍💻 Node Projects</p align="center">
 
-<center>🚛 Beginner To Advanced Node.js Projects. Choose a project that aligns with your interests and skill level, and use it as an opportunity to learn and experiment with Node.js. </center>
+<p align="center">🚛 Beginner To Advanced Node.js Projects. Choose a project that aligns with your interests and skill level, and use it as an opportunity to learn and experiment with Node.js. </p>
 
 ## 📋 Table of Contents
 
