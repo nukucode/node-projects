@@ -20,6 +20,7 @@ Node.js projects encompass a wide range of applications and use cases, making it
 ## Projects
 
 - [File Uploader](FileUploader)
+- [URL Shortener](urlShortener)
 
 
 ## Contributing
