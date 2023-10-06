@@ -1,0 +1,22 @@
+{
+  "name": "task-cli",
+  "module": "index.ts",
+  "type": "module",
+  "author": "Ankit",
+  "license": "MIT",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.0.0",
+    "dotenv": "^16.3.1",
+    "inquirer": "^9.2.11",
+    "mongoose": "^7.5.4",
+    "nanoid": "^5.0.1",
+    "ora": "^7.0.1"
+  }
+}
