@@ -21,7 +21,7 @@ Node.js projects encompass a wide range of applications and use cases, making it
 
 - [File Uploader](FileUploader)
 - [URL Shortener](urlShortener)
-
+- [Task CLI](task-cli)
 
 ## Contributing
 
