@@ -1,0 +1,21 @@
+{
+  "name": "web-scraper",
+  "module": "index.ts",
+  "type": "commonjs",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.5.1",
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^21.3.8",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
