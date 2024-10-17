@@ -1,0 +1,25 @@
+{
+  "name": "task-backend",
+  "version": "1.0.0",
+  "description": "Task App Backend Part",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nukucode/node-projects/task-backend"
+  },
+  "author": "nukucode",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.7.2"
+  }
+}
